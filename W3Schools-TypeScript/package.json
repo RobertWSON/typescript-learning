@@ -1,0 +1,31 @@
+{
+  "name": "w3schools-typescript",
+  "version": "1.0.0",
+  "description": "My First TypeScript Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertWSON/typescript-learning.git"
+  },
+  "keywords": [
+    "Coding",
+    "W3Schools",
+    "TypeScript",
+    "in",
+    "Visual",
+    "Studio",
+    "Code"
+  ],
+  "author": "Robert Wilkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertWSON/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/RobertWSON/typescript-learning#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
